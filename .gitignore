@@ -1,3 +1,4 @@
+*.deb
 *.egg-info
 *.exe
 *.exe.stackdump
@@ -75,3 +76,4 @@ tests/test_config
 /debian/swtpm-tools
 /debian/swtpm-tools.postinst
 /debian/tmp
+
